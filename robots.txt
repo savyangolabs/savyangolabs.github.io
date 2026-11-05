@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://savyangolabs.github.io
+Sitemap: https://savyangolabs.github.io/sitemap.xml
